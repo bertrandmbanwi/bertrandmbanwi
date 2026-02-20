@@ -18,11 +18,11 @@ I architect cloud platforms that teams can trust in production. My work sits at 
 
 Right now, I'm focused on:
 
-- 🏗️ **Platform Engineering** — Production Kubernetes clusters, service meshes, and internal developer platforms
-- 🔒 **Security Automation** — Secret scanning pipelines, compliance-as-code, and SOC monitoring stacks
-- 📡 **Observability** — Full-stack monitoring with Grafana, Prometheus, Loki, and custom synthetic checks
-- ⚡ **CI/CD Architecture** — GitHub Actions workflows, self-hosted runners, and deployment automation
-- 🤖 **AI-Powered DevTools** — LLM-driven code review, security analysis, and developer workflow automation
+- ![Platform](https://img.shields.io/badge/Platform_Engineering-6366F1?style=flat-square&logo=kubernetes&logoColor=white) Production Kubernetes clusters, service meshes, and internal developer platforms
+- ![Security](https://img.shields.io/badge/Security_Automation-E53935?style=flat-square&logo=gnuprivacyguard&logoColor=white) Secret scanning pipelines, compliance-as-code, and SOC monitoring stacks
+- ![Observability](https://img.shields.io/badge/Observability-F46800?style=flat-square&logo=grafana&logoColor=white) Full-stack monitoring with Grafana, Prometheus, Loki, and custom synthetic checks
+- ![CI/CD](https://img.shields.io/badge/CI%2FCD_Architecture-2088FF?style=flat-square&logo=githubactions&logoColor=white) GitHub Actions workflows, self-hosted runners, and deployment automation
+- ![AI](https://img.shields.io/badge/AI--Powered_DevTools-10A37F?style=flat-square&logo=openai&logoColor=white) LLM-driven code review, security analysis, and developer workflow automation
 
 ---
 
