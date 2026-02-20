@@ -72,6 +72,7 @@ Right now, I'm focused on:
 | Project | What It Does |
 |---------|-------------|
 | [**infraguard**](https://github.com/bertrandmbanwi/infraguard) | Infrastructure security CLI — Terraform plan risk scoring, AWS tag auditing, and IAM policy analysis in one tool |
+| [**github-actions**](https://github.com/bertrandmbanwi/github-actions) | Composite GitHub Actions library — SSH deploy, Python CI, multi-channel notify, SARIF reporting |
 | [**renovatebot**](https://github.com/bertrandmbanwi/renovatebot) | Production-ready centralized Renovate template for org-wide dependency management |
 
 #### Production Systems
