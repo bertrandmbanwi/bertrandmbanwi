@@ -67,6 +67,15 @@ Right now, I'm focused on:
 
 ### Featured Work
 
+#### Open Source
+
+| Project | What It Does |
+|---------|-------------|
+| [**infraguard**](https://github.com/bertrandmbanwi/infraguard) | Infrastructure security CLI — Terraform plan risk scoring, AWS tag auditing, and IAM policy analysis in one tool |
+| [**renovatebot**](https://github.com/bertrandmbanwi/renovatebot) | Production-ready centralized Renovate template for org-wide dependency management |
+
+#### Production Systems
+
 > Some of my production work lives under the [**CaeliCode**](https://github.com/caelicode) organization.
 
 | Project | What It Does |
