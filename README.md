@@ -6,10 +6,7 @@
 
 I design, build, and operate production-grade cloud infrastructure — from zero to scale.
 
-Founder of [**CaeliCode Solutions**](https://caelicode.com), where we turn complex cloud problems into elegant, automated systems.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bertrandmbanwi)
-[![Website](https://img.shields.io/badge/caelicode.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://caelicode.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bertrandmbanwi@gmail.com)
 
 </div>
@@ -71,7 +68,7 @@ Right now, I'm focused on:
 
 ### Featured Work
 
-> Most of my production work lives under the [**CaeliCode**](https://github.com/caelicode) organization.
+> Some of my production work lives under the [**CaeliCode**](https://github.com/caelicode) organization.
 
 | Project | What It Does |
 |---------|-------------|
