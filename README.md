@@ -4,7 +4,7 @@
 
 **Cloud Engineer ・ DevOps Architect ・ Security-First Builder**
 
-I design, build, and operate production-grade cloud infrastructure — from zero to scale.
+I design, build, and operate production-grade cloud infrastructure - from zero to scale.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bertrandmbanwi@gmail.com)
 
@@ -14,7 +14,7 @@ I design, build, and operate production-grade cloud infrastructure — from zero
 
 ### What I Do
 
-I architect cloud platforms that teams can trust in production. My work sits at the intersection of infrastructure, automation, and security — building systems that are observable, self-healing, and engineered to last.
+I architect cloud platforms that teams can trust in production. My work sits at the intersection of infrastructure, automation, and security - building systems that are observable, self-healing, and engineered to last.
 
 Right now, I'm focused on:
 
@@ -72,9 +72,9 @@ Right now, I'm focused on:
 
 | Project | What It Does |
 |---------|-------------|
-| [**codeguard**](https://github.com/bertrandmbanwi/codeguard) | AI-powered code review CLI + GitHub Action — security, bugs, and performance analysis using LLMs (OpenAI, Anthropic, Ollama) with CWE/OWASP knowledge base and SARIF output |
-| [**infraguard**](https://github.com/bertrandmbanwi/infraguard) | Infrastructure security CLI — Terraform plan risk scoring, AWS tag auditing, and IAM policy analysis in one tool |
-| [**github-actions**](https://github.com/bertrandmbanwi/github-actions) | Composite GitHub Actions library — SSH deploy, Python CI, multi-channel notify, SARIF reporting |
+| [**codeguard**](https://github.com/bertrandmbanwi/codeguard) | AI-powered code review CLI + GitHub Action - security, bugs, and performance analysis using LLMs (OpenAI, Anthropic, Ollama) with CWE/OWASP knowledge base and SARIF output |
+| [**infraguard**](https://github.com/bertrandmbanwi/infraguard) | Infrastructure security CLI - Terraform plan risk scoring, AWS tag auditing, and IAM policy analysis in one tool |
+| [**github-actions**](https://github.com/bertrandmbanwi/github-actions) | Composite GitHub Actions library - SSH deploy, Python CI, multi-channel notify, SARIF reporting |
 | [**renovatebot**](https://github.com/bertrandmbanwi/renovatebot) | Production-ready centralized Renovate template for org-wide dependency management |
 
 #### Production Systems
@@ -84,7 +84,7 @@ Right now, I'm focused on:
 | Project | What It Does |
 |---------|-------------|
 | [**secret-scanner**](https://github.com/caelicode/secret-scanner) | Enterprise secret scanning pipeline with Gitleaks & TruffleHog |
-| [**soc-monitoring-stack**](https://github.com/caelicode/soc-monitoring-stack) | Containerized SOC monitoring — Grafana, Prometheus, Loki, Alertmanager |
+| [**soc-monitoring-stack**](https://github.com/caelicode/soc-monitoring-stack) | Containerized SOC monitoring - Grafana, Prometheus, Loki, Alertmanager |
 | [**status-page**](https://github.com/caelicode/status-page) | Config-driven uptime monitoring with Grafana SM + Atlassian Statuspage |
 | [**github-user-management**](https://github.com/caelicode/github-user-management) | Centralized GitHub org user & repo governance automation |
 | [**runner-infrastructure**](https://github.com/caelicode/runner-infrastructure) | Self-hosted GitHub Actions runner fleet management |
