@@ -22,6 +22,7 @@ Right now, I'm focused on:
 - 🔒 **Security Automation** — Secret scanning pipelines, compliance-as-code, and SOC monitoring stacks
 - 📡 **Observability** — Full-stack monitoring with Grafana, Prometheus, Loki, and custom synthetic checks
 - ⚡ **CI/CD Architecture** — GitHub Actions workflows, self-hosted runners, and deployment automation
+- 🤖 **AI-Powered DevTools** — LLM-driven code review, security analysis, and developer workflow automation
 
 ---
 
@@ -71,6 +72,7 @@ Right now, I'm focused on:
 
 | Project | What It Does |
 |---------|-------------|
+| [**codeguard**](https://github.com/bertrandmbanwi/codeguard) | AI-powered code review CLI + GitHub Action — security, bugs, and performance analysis using LLMs (OpenAI, Anthropic, Ollama) with CWE/OWASP knowledge base and SARIF output |
 | [**infraguard**](https://github.com/bertrandmbanwi/infraguard) | Infrastructure security CLI — Terraform plan risk scoring, AWS tag auditing, and IAM policy analysis in one tool |
 | [**github-actions**](https://github.com/bertrandmbanwi/github-actions) | Composite GitHub Actions library — SSH deploy, Python CI, multi-channel notify, SARIF reporting |
 | [**renovatebot**](https://github.com/bertrandmbanwi/renovatebot) | Production-ready centralized Renovate template for org-wide dependency management |
