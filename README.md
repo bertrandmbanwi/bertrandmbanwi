@@ -72,7 +72,7 @@ Right now, I'm focused on:
 
 | Project | What It Does |
 |---------|-------------|
-| [**runnerly-lab**](https://github.com/bertrandmbanwi/runnerly-lab) | Self-hosted GitHub Actions runner control plane - live runner fleet dashboard, GitHub webhooks, policy guardrails, SSE updates, SQLite evidence exports, and sanitized demo data |
+| [**actions-runner-control-plane**](https://github.com/bertrandmbanwi/actions-runner-control-plane) | Self-hosted GitHub Actions runner control plane - live runner fleet dashboard, GitHub webhooks, policy guardrails, SSE updates, SQLite evidence exports, and sanitized demo data |
 | [**codeguard**](https://github.com/bertrandmbanwi/codeguard) | AI-powered code review CLI + GitHub Action - security, bugs, and performance analysis using LLMs (OpenAI, Anthropic, Ollama) with CWE/OWASP knowledge base and SARIF output |
 | [**infraguard**](https://github.com/bertrandmbanwi/infraguard) | Infrastructure security CLI - Terraform plan risk scoring, AWS tag auditing, and IAM policy analysis in one tool |
 | [**github-actions**](https://github.com/bertrandmbanwi/github-actions) | Composite GitHub Actions library - SSH deploy, Python CI, multi-channel notify, SARIF reporting |
