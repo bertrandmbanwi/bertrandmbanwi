@@ -21,7 +21,7 @@ Right now, I'm focused on:
 - ![Platform](https://img.shields.io/badge/Platform_Engineering-6366F1?style=flat-square&logo=kubernetes&logoColor=white) Production Kubernetes clusters, service meshes, and internal developer platforms
 - ![Security](https://img.shields.io/badge/Security_Automation-E53935?style=flat-square&logo=gnuprivacyguard&logoColor=white) Secret scanning pipelines, compliance-as-code, and SOC monitoring stacks
 - ![Observability](https://img.shields.io/badge/Observability-F46800?style=flat-square&logo=grafana&logoColor=white) Full-stack monitoring with Grafana, Prometheus, Loki, and custom synthetic checks
-- ![CI/CD](https://img.shields.io/badge/CI%2FCD_Architecture-2088FF?style=flat-square&logo=githubactions&logoColor=white) GitHub Actions workflows, self-hosted runners, and deployment automation
+- ![CI/CD](https://img.shields.io/badge/CI%2FCD_Architecture-2088FF?style=flat-square&logo=githubactions&logoColor=white) GitHub Actions workflows, self-hosted runner control planes, and deployment automation
 - ![AI](https://img.shields.io/badge/AI--Powered_DevTools-10A37F?style=flat-square&logo=openai&logoColor=white) LLM-driven code review, security analysis, and developer workflow automation
 
 ---
@@ -72,6 +72,7 @@ Right now, I'm focused on:
 
 | Project | What It Does |
 |---------|-------------|
+| [**runnerly-lab**](https://github.com/bertrandmbanwi/runnerly-lab) | Self-hosted GitHub Actions runner control plane - live runner fleet dashboard, GitHub webhooks, policy guardrails, SSE updates, SQLite evidence exports, and sanitized demo data |
 | [**codeguard**](https://github.com/bertrandmbanwi/codeguard) | AI-powered code review CLI + GitHub Action - security, bugs, and performance analysis using LLMs (OpenAI, Anthropic, Ollama) with CWE/OWASP knowledge base and SARIF output |
 | [**infraguard**](https://github.com/bertrandmbanwi/infraguard) | Infrastructure security CLI - Terraform plan risk scoring, AWS tag auditing, and IAM policy analysis in one tool |
 | [**github-actions**](https://github.com/bertrandmbanwi/github-actions) | Composite GitHub Actions library - SSH deploy, Python CI, multi-channel notify, SARIF reporting |
